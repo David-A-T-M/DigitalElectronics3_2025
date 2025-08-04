@@ -49,7 +49,7 @@ This repository is actively used in _Digital Electronics 3 (ED3)_ to teach:
 Example projects are continuously added and refined. The current and planned topics include:
 
 - ✅ Blinking LED
-- 🚧 7-segment digit auto counter
+- ✅ 7-segment digit auto counter
 - 🗓️ External Interrupt
 - 🗓️ GPIO Toggling
 - 🗓️ Timer with SysTick
